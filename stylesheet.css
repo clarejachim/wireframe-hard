@@ -21,7 +21,7 @@ body{
 }
 
 .grid > div {
-    border: .5em rgb(1, 1, 82) solid;
+    border: .1em rgb(1, 1, 82) solid;
 }
 
 .small{
@@ -175,7 +175,7 @@ body{
     }
 
     .grid > div {
-        border: .2em darkblue solid;
+        border: .01em darkblue solid;
     }
 
     .small { grid-area: 1 / 1 / 2 / 2; }
@@ -183,7 +183,7 @@ body{
     .small2 { grid-area: 3 / 1 / 4 / 2; }
     .header { grid-area: 4 / 1 / 5 / 2; }
     .img { grid-area: 5 / 1 / 6 / 2; }
-    .main2 { grid-area: 5 / 1 / 13 / 2; }
+    .main2 { grid-area: 5 / 1 / 7 / 2; }
     .quote { grid-area: 6 / 1 / 7 / 2; }
     .sidebar { grid-area: 7 / 1 / 8 / 2; }
     .small3 { grid-area: 8 / 1 / 9 / 2; }
