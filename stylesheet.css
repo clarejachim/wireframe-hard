@@ -13,6 +13,7 @@ body{
     grid-template-rows: repeat(6, 1fr);
     font-family:'Courier';
     text-align: center;
+    font-size: 80px;
     justify-content: center;
     color: white;
     height: 100vh;
@@ -142,7 +143,7 @@ body{
     align-items: center; 
 }
 
-@media(max-width: 800px){
+@media(max-width: 1000px){
 
     body{
         height: 100vh;
